@@ -50,14 +50,17 @@ UI/UX
 -플레이어 스탯 정보 표시  
 -파워업 효과 시각화  
 
+이펙트  
+  
+-폭발 이펙트  
+-박스 파괴 이펙트  
+-아이템 획득 이펙트 
+
+
 🔧 기술 스택  
 Development  
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>  
 Environment  
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
   
-이펙트  
-  
--폭발 이펙트  
--박스 파괴 이펙트  
--아이템 획득 이펙트  
+ 
