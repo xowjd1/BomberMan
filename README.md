@@ -1,6 +1,6 @@
 봄버맨 멀티플레이 모작
 
-담당 스크립트 정리  
+●담당 스크립트 정리  
 https://github.com/xowjd1/BomberMan/tree/main/Source/BombermanProto/Private/Taejeong
 
 📱 실행 영상  
@@ -24,14 +24,14 @@ https://youtu.be/_iQ-qpUqYnE
   
   
 💻 담당 구현 기능  
-폭탄 시스템  
+●폭탄 시스템  
   
 -십자 방향 폭발 구현  
 -장애물 충돌 시 폭발 제한  
 -폭발 범위 및 데미지 처리  
 -연쇄 폭발 메카닉  
   
-아이템 시스템  
+●아이템 시스템  
   
 -파괴 가능한 박스 시스템  
 -확률 기반 아이템 드롭  
@@ -43,13 +43,13 @@ https://youtu.be/_iQ-qpUqYnE
   
   
   
-UI/UX  
+●UI/UX  
   
 -실시간 아이템 획득 상태 표시  
 -플레이어 스탯 정보 표시  
 -파워업 효과 시각화  
 
-이펙트  
+●이펙트  
   
 -폭발 이펙트  
 -박스 파괴 이펙트  
