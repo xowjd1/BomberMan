@@ -4,7 +4,6 @@
 https://github.com/xowjd1/BomberMan/tree/main/Source/BombermanProto/Private/Taejeong
 
 📱 실행 영상  
-
 https://youtu.be/_iQ-qpUqYnE
 
 📋 프로젝트 소개  
